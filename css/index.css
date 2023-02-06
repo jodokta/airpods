@@ -97,32 +97,32 @@ header figure>img:hover{
 }
 
 #AirPods-second-gen{
-    background:url(/img/airpods_2gen_light__ckwbqlgv1r9e_large.svg) no-repeat 0 -17px;
+    background:url(../img/airpods_2gen_light__ckwbqlgv1r9e_large.svg) no-repeat 0 -17px;
     width: 32px;
 }
 
 #AirPods-third-gen{
-    background: url(/img/airpods_3gen_light__6r7zooyk4lua_large.svg) no-repeat 0 -25px;
+    background: url(../img/airpods_3gen_light__6r7zooyk4lua_large.svg) no-repeat 0 -25px;
 	width: 34px;
 }
 
 #AirPodsPro-second-gen{
-    background: url(/img/airpods_pro_light__ets5a19rt3au_large.svg) no-repeat 0 -25px;
+    background: url(../img/airpods_pro_light__ets5a19rt3au_large.svg) no-repeat 0 -25px;
 	width: 39px;
 }
 
 #AirPodsMax{
-    background: url(/img/airpods_max_light__cvaaddhgazqu_large.svg) no-repeat 0 -12px;
+    background: url(../img/airpods_max_light__cvaaddhgazqu_large.svg) no-repeat 0 -12px;
 	width: 34px;
 }
 
 #compare{
-    background: url('/img/airpods_compare_light__cmuvdvbxj1w2_large.svg') no-repeat 0 -13px;
+    background: url('../img/airpods_compare_light__cmuvdvbxj1w2_large.svg') no-repeat 0 -13px;
 	width: 45px;
 }
 
 #Apple-Music{
-    background: url('/img/apple_music_light__fexraacz3dme_large.svg') no-repeat 0 -18px;
+    background: url('../img/apple_music_light__fexraacz3dme_large.svg') no-repeat 0 -18px;
 	width: 32px;
 }
 
@@ -159,5 +159,5 @@ header figure>img:hover{
     height: 100%;
     width: 100%;
     border-radius: 2%; 
-    background: url(/img/hero_startframe__f6btrn4bhpyu_large.jpg);
+    background: url(../img/hero_startframe__f6btrn4bhpyu_large.jpg);
 }
